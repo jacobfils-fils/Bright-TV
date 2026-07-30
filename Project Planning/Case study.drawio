@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="HQ54AFFhi2dQ-UvVE6E8">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eVUeUSGtWuI4DUs9bquJ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;CASE STUDY&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;BRIGTH TV&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="320" x="213" y="-1090" as="geometry" />
+        </mxCell>
+        <mxCell id="iCitlqAqyb0iCR9JNMyU-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;* Step 0: Read and Understand the request&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="130" y="-870" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;*Step 1: Asking Data driven Questions&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="520" width="280" x="130" y="-1210" as="geometry" />
+        </mxCell>
+        <mxCell id="MmAwm0c92ujTHYMxWqzq-1" edge="1" parent="1" source="jebegMRH6uLoIslNttX8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="jebegMRH6uLoIslNttX8-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="-740" />
+              <mxPoint x="225" y="-590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="What Age group are my highest subscribers?" vertex="1">
+          <mxGeometry height="80" width="80" x="90" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="What Gender are my subscribers?" vertex="1">
+          <mxGeometry height="80" width="80" x="180" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Where are my most subscribers coming from? [province]" vertex="1">
+          <mxGeometry height="80" width="80" x="280" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="What Race are my subscribers[ white,black&lt;div&gt;,indian..&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="90" x="80" y="-680" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Who is my subscriber?" vertex="1">
+          <mxGeometry height="90" width="90" x="180" y="-680" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Are the contactable?" vertex="1">
+          <mxGeometry height="90" width="90" x="280" y="-680" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" value="When are the subscribers watching the content?" vertex="1">
+          <mxGeometry height="80" width="80" x="480" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" value="What content has the highest viewers?" vertex="1">
+          <mxGeometry height="80" width="80" x="480" y="-680" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-10" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" value="What is they watch time?" vertex="1">
+          <mxGeometry height="80" width="80" x="573" y="-680" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="680" y="-680" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-12" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" value="What time of day are they watching?&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" x="570" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="680" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Step 2: Data Inspections:&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="110" y="-340" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="-Inject Data on Databricks" vertex="1">
+          <mxGeometry height="30" width="150" x="300" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="-hecking the available Data" vertex="1">
+          <mxGeometry height="30" width="150" x="310" y="-270" as="geometry" />
+        </mxCell>
+        <mxCell id="jebegMRH6uLoIslNttX8-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Step 3: Data Processing&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="130" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="TyHipQhFItY_6Fg79ErT-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="USER" vertex="1">
+          <mxGeometry height="80" width="120" x="180" y="-520" as="geometry" />
+        </mxCell>
+        <mxCell id="TyHipQhFItY_6Fg79ErT-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="VIEWERSHIP&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="590" y="-520" as="geometry" />
+        </mxCell>
+        <mxCell id="TyHipQhFItY_6Fg79ErT-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="jebegMRH6uLoIslNttX8-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="-520" as="sourcePoint" />
+            <mxPoint x="210" y="-550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TyHipQhFItY_6Fg79ErT-4" edge="1" parent="1" source="TyHipQhFItY_6Fg79ErT-2" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="jebegMRH6uLoIslNttX8-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="-360" as="sourcePoint" />
+            <mxPoint x="460" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
